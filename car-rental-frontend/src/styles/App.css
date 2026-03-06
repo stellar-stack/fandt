@@ -1,0 +1,23 @@
+body{
+font-family: 'Poppins',sans-serif;
+background:#f3f4f6;
+margin:0;
+}
+
+h2{
+text-align:center;
+color:#1f2937;
+}
+
+button{
+background:#2563eb;
+color:white;
+padding:10px 20px;
+border:none;
+border-radius:6px;
+cursor:pointer;
+}
+
+button:hover{
+background:#1e40af;
+}
